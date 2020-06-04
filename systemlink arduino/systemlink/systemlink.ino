@@ -61,7 +61,7 @@ void setup() {
     client.println("Host: api.systemlinkcloud.com");
     client.println("Content-Type:application/json");
     client.println("Accept:application/json");
-    client.println("x-ni-api-key:bvd8X9LweQY9o2eP1NYL-p8mLL9wMAk6YYOnYSiIo0");
+    client.println("x-ni-api-key:apikey");
     client.println("Connection: close");
     client.println();
   }
